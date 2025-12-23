@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I’m Ramesh Anakapalli 👋</h2>
 
 <p align="center">
-<b>Aspiring Data Analyst | Python • SQL • Power BI</b>
+<b>Aspiring Data Analyst | Python • Power BI • Excel • MySQL</b>
 </p>
 
 <p align="center">
@@ -11,21 +11,20 @@ Interested in data analysis, business insights, and visualization.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ramesh-anakapalli-5419a1343">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rameshanakapalli.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🔭 Working on **Customer Churn Analysis** using Python (EDA)
-- 🌱 Learning **SQL and advanced analytics**
+- 🌱 Learning **MySQL & Advanced Analytics**
 - 🎯 Looking for **Entry-level Data Analyst / Analytics Associate** roles
-- 💬 Comfortable with **Python, Pandas, Power BI**
+- 💬 Comfortable with **Python, Pandas, Power BI, Excel**
 
 ---
 
@@ -33,9 +32,9 @@ Interested in data analysis, business insights, and visualization.
 
 **Programming & Analysis**  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 
 **Data Visualization**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi)
@@ -51,10 +50,10 @@ Interested in data analysis, business insights, and visualization.
 
 ### 🚀 Projects
 - **Customer Churn Analysis**  
-  Analyzed customer behavior to identify churn patterns and high-risk segments using Python and EDA.
+  Python-based EDA to identify churn patterns and high-risk customer segments.
 
 - **E-Commerce Store Analysis**  
-  Built a Power BI dashboard to analyze sales performance and customer trends.
+  Power BI dashboard analyzing sales performance and customer trends.
 
----
-
+- **Data Analysis Dashboard (Excel)**  
+  Excel-based customer analytics dashboard analyzing customer-wise sales using Customer Info and Order Details datasets.
