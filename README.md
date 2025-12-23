@@ -13,9 +13,10 @@ Interested in data analysis, business insights, and visualization.
 <a href="https://www.linkedin.com/in/ramesh-anakapalli-5419a1343">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://github.com/rameshanakapalli">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<a href="mailto:rameshanakapalli.tech@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
