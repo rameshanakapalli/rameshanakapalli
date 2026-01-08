@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramesh Anakapalli</h1>
-<h3 align="center">Aspiring Data Analyst from Andhra Pradesh, India 🇮🇳</h3>
+<h3 align="center">Aspiring Business & Data Analyst from Andhra Pradesh, India </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rameshanakapalli&label=Profile%20views&color=0e75b6&style=flat" alt="rameshanakapalli" /> 
