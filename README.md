@@ -12,7 +12,6 @@
 - 🎓 Engineering Graduate (2025)
 - 📊 Aspiring **Data Analyst** with strong interest in Data Analytics & Business Intelligence
 - 🌱 Currently strengthening my skills in **SQL, Power BI, Excel, Tableau, and Python**
-- 👨‍💻 Check out my data analytics projects here: **[My GitHub Repositories](https://github.com/rameshanakapalli)**
 - 💬 Ask me about **Data Visualization, SQL Queries, Dashboards, and Data Cleaning**
 - 📫 How to reach me: **rameshanakapalli.tech@gmail.com**
 - ⚡ Fun fact: **I enjoy turning raw data into meaningful insights**
