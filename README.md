@@ -11,9 +11,9 @@
 
 - 🎓 Engineering Graduate (2025)
 - 💻 Aspiring **Software Engineer** with strong interest in **IT, Cloud, and Data Technologies**
-- 🌱 Currently building skills in **Python, SQL, Data Structures, and Cloud Fundamentals**
+- 🌱 Currently building skills in **Java, Python, SQL, Data Structures, and Cloud Fundamentals**
 - 🔍 Interested in **Backend Development, Data Engineering, and Business Intelligence**
-- 💬 Ask me about **Python, SQL, Dashboards, Data Cleaning, and Cloud Basics**
+- 💬 Ask me about **Python, Java, SQL, Dashboards, Data Cleaning, and Cloud Basics**
 - 📫 Reach me at: **rameshanakapalli.tech@gmail.com**
 - ⚡ Fun fact: **I enjoy solving problems and building tech-driven solutions**
 
