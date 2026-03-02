@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramesh Anakapalli</h1>
-<h3 align="center">Aspiring Software Engineer | Data & Cloud Enthusiast | India</h3>
+<h3 align="center">Aspiring Data Analyst | SQL, Excel & Power BI | Data Quality & Reporting | India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rameshanakapalli&label=Profile%20views&color=0e75b6&style=flat" alt="rameshanakapalli" /> 
@@ -10,21 +10,22 @@
 ### 🚀 About Me
 
 - 🎓 Engineering Graduate (2025)
-- 💻 Aspiring **Software Engineer** with strong interest in **IT, Cloud, and Data Technologies**
-- 🌱 Currently building skills in **Java, Python, SQL, Data Structures, and Cloud Fundamentals**
-- 🔍 Interested in **Backend Development, Data Engineering, and Business Intelligence**
-- 💬 Ask me about **Python, Java, SQL, Dashboards, Data Cleaning, and Cloud Basics**
-- 📫 Reach me at: **rameshanakapalli.tech@gmail.com**
-- ⚡ Fun fact: **I enjoy solving problems and building tech-driven solutions**
+- 📊 Aspiring **Data Analyst** with hands-on experience in **SQL and Advanced Excel**
+- 📈 Built analytical projects including **Bank Segmentation Analysis and Customer Churn Analysis**
+- 🧹 Experience in **data cleaning, aggregation, validation, and trend analysis**
+- 🔍 Interested in **Data Quality, Business Intelligence, and Reporting**
+- 💬 Ask me about **SQL queries (JOIN, GROUP BY), Excel dashboards, KPIs, and data validation**
+- 📫 Reach me at: **rameshanakapalli01@gmail.com**
+- ⚡ I enjoy identifying patterns, solving analytical problems, and turning raw data into insights
 
 ---
 
 ### 🛠️ Technical Skills & Tools
 
-<h4 align="center">Programming | Data | Cloud</h4>
+<h4 align="center">Data Analysis | Reporting | Visualization</h4>
 
 <p align="center">
-  
+
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" 
