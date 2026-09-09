@@ -1,62 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ramesh Anakapalli</h1>
-<h3 align="center">Aspiring Data Analyst | SQL, Excel & Power BI | Data Quality & Reporting | India</h3>
+# 👋 Hi, I'm Ramesh Anakapalli
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rameshanakapalli&label=Profile%20views&color=0e75b6&style=flat" alt="rameshanakapalli" /> 
-</p>
+### 📊 Data Analyst | SQL | Power BI | Excel | Python
 
----
-
-### 🚀 About Me
-
-- 🎓 Engineering Graduate (2025)
-- 📊 Aspiring **Data Analyst** with hands-on experience in **SQL and Advanced Excel**
-- 📈 Built analytical projects including **Bank Segmentation Analysis and Customer Churn Analysis**
-- 🧹 Experience in **data cleaning, aggregation, validation, and trend analysis**
-- 🔍 Interested in **Data Quality, Business Intelligence, and Reporting**
-- 💬 Ask me about **SQL queries (JOIN, GROUP BY), Excel dashboards, KPIs, and data validation**
-- 📫 Reach me at: **rameshanakapalli01@gmail.com**
-- ⚡ I enjoy identifying patterns, solving analytical problems, and turning raw data into insights
+Aspiring Data Analyst passionate about transforming raw data into meaningful insights, interactive dashboards, and data-driven business decisions.
 
 ---
 
-### 🛠️ Technical Skills & Tools
+### 🛠️ Technical Skills
 
-<h4 align="center">Data Analysis | Reporting | Visualization</h4>
-
-<p align="center">
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" 
-         alt="Python" width="40" height="40"/>
-  </a>
-
-  <!-- SQL -->
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
-         alt="SQL" width="40" height="40"/>
-  </a>
-
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" 
-         alt="Excel" width="40" height="40"/>
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" 
-         alt="Power BI" width="40" height="40"/>
-  </a>
-
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" 
-         alt="Tableau" width="40" height="40"/>
-  </a>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rameshanakapalli&label=Profile%20views&color=0e75b6&style=flat" alt="rameshanakapalli" />
+</p>
+
+**Data Analytics:** SQL • Excel • Power BI • Tableau • Python
+
+**Data Analysis:** Data Cleaning • EDA • KPI Analysis • Business Analysis • Data Visualization
+
+**Python Libraries:** Pandas • NumPy • Matplotlib • Seaborn
+
+---
+
+### 📈 What I Do
+
+- Analyze data to identify trends, patterns, and business insights
+- Clean, transform, and prepare datasets for analysis
+- Build interactive dashboards and reports using Power BI and Tableau
+- Write SQL queries to extract, transform, and analyze data
+- Perform exploratory data analysis using Python
+- Develop KPI reports to support data-driven decision-making
 
 ---
 
@@ -64,8 +43,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ramesh-anakapalli-5419a1343/" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
